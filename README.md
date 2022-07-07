@@ -26,7 +26,6 @@ The src folder contains all the necessary python code to run the example.
 1. [PySINDy: A Python package for the Sparse
 Identification of Nonlinear Dynamics from Data](https://arxiv.org/pdf/2004.08424v1.pdf)
 2. [Youtube channel with System Identification lectures from the Brazillian Professor Luis Aguirre](https://www.youtube.com/watch?v=TWdgSG0sMlQ&list=PLALrL4i0Pz6DrrCkkJ-k-_S3qi1bFzUUu)
-3. [state space modeling example in python](http://apmonitor.com/pdc/index.php/Main/StateSpaceModel)
-4. [Kalman filtering book](https://drive.google.com/file/d/0By_SW19c1BfhSVFzNHc0SjduNzg/view?usp=sharing&resourcekey=0-41olC9ht9xE3wQe2zHZ45A) e com esse [repo](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+3. [state space modeling example in python](http://apmonitor.com/pdc/index.php/Main/StateSpaceModel)and repo [repo link](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 5. [Cool Pysindy example found in the internet](https://www.futurescienceleaders.com/blog/2022/06/discovering-the-governing-differential-equations-of-a-combustion-system-using-sindy/)
 6. [Amazing example and code inspiration that used PySindy](https://github.com/bstollnitz/sindy)
