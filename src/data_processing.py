@@ -21,8 +21,7 @@ def load_data() -> pd.DataFrame:
             FIC2.PV, FIC2.CV, FIC2.SP
     """
 
-    data = pd.read_csv(f"{ORIGINAL_DATA_DIR}/data.csv", index_col=0)
-
+    data = pd.read_parquet(f"{ORIGINAL_DATA_DIR}/data.parquet")
     data.index = pd.to_datetime(data.index)
     data.dropna(inplace=True)
 
